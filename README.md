@@ -9,7 +9,8 @@ Refinar o modelo apresentado abaixo acrescentando os seguintes pontos:
 - 
 # Modelo original:
 
-![Capturar](https://github.com/user-attachments/assets/0318fe70-95d6-4304-bfeb-a4c10b95357e)
+![br_modelo_ecommerce](https://github.com/user-attachments/assets/b118ec0f-b51b-4ffe-8ea6-766e25447d7f)
+
 
 
 Projeto consiste na modelagem e implementação de um banco de dados para um sistema de e-commerce, utilizando MySQL, inserindo os pontos de melhoria supracitado no desafio da DIO.
