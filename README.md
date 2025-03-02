@@ -1,6 +1,18 @@
 # EcommerceDB - Modelagem de Banco de Dados
 
-Este projeto consiste na modelagem e implementação de um banco de dados para um sistema de e-commerce, utilizando MySQL.
+Objetivo:
+Refinar o modelo apresentado abaixo acrescentando os seguintes pontos:
+
+- **Cliente PJ e PF** – Uma conta pode ser PJ ou PF, mas não pode ter as duas informações;
+- **Pagamento** – Pode ter cadastrado mais de uma forma de pagamento;
+- **Entrega** – Possui status e código de rastreio.
+- 
+# Modelo original:
+
+![Capturar](https://github.com/user-attachments/assets/0318fe70-95d6-4304-bfeb-a4c10b95357e)
+
+
+Projeto consiste na modelagem e implementação de um banco de dados para um sistema de e-commerce, utilizando MySQL, inserindo os pontos de melhoria supracitado no desafio da DIO.
 
 ## 📌 Estrutura do Banco de Dados
 - **Clientes (PJ e PF)** com um tipo específico.
@@ -8,6 +20,11 @@ Este projeto consiste na modelagem e implementação de um banco de dados para u
 - **Pagamentos** associados aos pedidos (múltiplos métodos por pedido).
 - **Entregas** com status e código de rastreamento.
 - **Produtos** vinculados a fornecedores, estoques e vendedores terceiros.
+
+  # Modelo após melhorias solicitadas:
+
+  ![modelo_eer_ecommerce](https://github.com/user-attachments/assets/87b1110a-3d68-40b1-8c48-7b927c2884bf)
+
 
 ## 🚀 Como Utilizar
 1. Execute o script `ecommerce_model.sql` em seu MySQL Workbench para criar as tabelas.
