@@ -38,10 +38,8 @@ Banco de Dados: MySQL
 Ferramenta de Modelagem: MySQL Workbench
 Linguagem SQL: DDL e DML.
 
-## 👨‍💻 Autor
-Desenvolvido por Wallace Oliveira dos Santos. Para dúvidas ou sugestões, entre em contato! 🚀
-
 ## 📂 Arquivos no Repositório
 - `ecommerce_model.sql` → Script SQL do banco de dados.
 - `modelo_eer.png` → Diagrama da modelagem no Workbench.
+
 
