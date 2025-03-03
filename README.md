@@ -1,16 +1,18 @@
-# EcommerceDB - Modelagem de Banco de Dados
+# 📦 Modelagem de Banco de Dados para E-commerce (Digital Innovation One)
 
-Objetivo:
+## 📖 Sobre o Projeto
+Este projeto apresenta a modelagem e implementação de um banco de dados relacional para um sistema de e-commerce, utilizando MySQL. O modelo foi criado no MySQL Workbench e implementado via script SQL.
+
+## Desafio:
 Refinar o modelo apresentado abaixo acrescentando os seguintes pontos:
 
 - **Cliente PJ e PF** – Uma conta pode ser PJ ou PF, mas não pode ter as duas informações;
 - **Pagamento** – Pode ter cadastrado mais de uma forma de pagamento;
 - **Entrega** – Possui status e código de rastreio.
 - 
-# Modelo original:
+# Modelo original do desafio:
 
 ![br_modelo_ecommerce](https://github.com/user-attachments/assets/b118ec0f-b51b-4ffe-8ea6-766e25447d7f)
-
 
 
 Projeto consiste na modelagem e implementação de um banco de dados para um sistema de e-commerce, utilizando MySQL, inserindo os pontos de melhoria supracitado no desafio da DIO.
@@ -30,6 +32,14 @@ Projeto consiste na modelagem e implementação de um banco de dados para um sis
 ## 🚀 Como Utilizar
 1. Execute o script `ecommerce_model.sql` em seu MySQL Workbench para criar as tabelas.
 2. Utilize **MySQL Workbench** para visualizar a modelagem (diagrama EER disponível no repositório).
+   
+## 💻 Tecnologias Utilizadas
+Banco de Dados: MySQL
+Ferramenta de Modelagem: MySQL Workbench
+Linguagem SQL: DDL e DML.
+
+## 👨‍💻 Autor
+Desenvolvido por Wallace Oliveira dos Santos. Para dúvidas ou sugestões, entre em contato! 🚀
 
 ## 📂 Arquivos no Repositório
 - `ecommerce_model.sql` → Script SQL do banco de dados.
